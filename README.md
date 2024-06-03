@@ -1,15 +1,30 @@
-Image visibility improving
-===========================
-Reference：
-
-Pan-wang Pan, Fei Yuan, and En Cheng, UNDERWATER IMAGE DE-SCATTERING AND ENHANCING USING DEHAZENET AND HWD, Journal of Marine Science and Technology[J], Vol. 26, No. 4, pp. 531-540 (2018)
-
-DOI: 10.6119/JMST.201808_26(4).0006
 
 
+# Reference
+```
+@article{pan2018underwater,
+  title={Underwater image de-scattering and enhancing using dehazenet and HWD},
+  author={Pan, Pan-wang and Yuan, Fei and Cheng, En},
+  journal={Journal of Marine Science and Technology},
+  volume={26},
+  number={4},
+  pages={6},
+  year={2018}
+}
+
+@article{pan2019scattering,
+  title={De-scattering and edge-enhancement algorithms for underwater image restoration},
+  author={Pan, Pan-wang and Yuan, Fei and Cheng, En},
+  journal={Frontiers of Information Technology \& Electronic Engineering},
+  volume={20},
+  pages={862--871},
+  year={2019},
+  publisher={Springer}
+}
+```
 
 
-
+# Image visibility improving
   
 De-scattering and edge enhancing are critical procedures for underwater images which surfer from serious detail loss, color deviation and blurring. In this work, a novel method has been proposed to enhance contrast and edge of underwater images.
 
